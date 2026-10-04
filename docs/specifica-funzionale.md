@@ -179,7 +179,7 @@ Queste sono osservazioni sul codice, non una certificazione di compatibilità co
 
 ## Prove senza CNC
 
-Per la verifica a casa si propone UGS collegato a grblHAL Simulator su Linux. Il collegamento e le funzioni effettivamente disponibili devono essere verificati nella configurazione scelta.
+Per la verifica senza macchina fisica si propone UGS collegato a grblHAL Simulator su Linux. Il collegamento e le funzioni effettivamente disponibili devono essere verificati nella configurazione scelta.
 
 Casi di accettazione previsti:
 

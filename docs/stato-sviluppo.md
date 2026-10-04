@@ -16,7 +16,7 @@ Aggiornamento: 22 settembre 2026.
 
 ## Limiti e verifiche successive
 
-- La versione precisa installata sul computer della CNC e il suo firmware non sono ancora noti. Il modulo è progettato e verificato contro UGS Platform 2.1.26.
+- Il modulo è progettato e verificato contro UGS Platform 2.1.26. La compatibilità con altre versioni UGS e firmware richiede ulteriori verifiche.
 - Il pannello e la generazione della griglia sono stati provati tramite click nell'interfaccia grafica. La sequenza completa tramite click con macchina simulata e il comando grafico **Apri scansione** restano da collaudare. Gli automatismi software sono stati testati tramite il backend, il simulatore e le classi di AutoLeveler.
 - AutoLeveler 2.1.26 ha un controllo che può impedire l'importazione di una mappa con Z tutte identiche. Vedere [compatibilita.md](compatibilita.md).
 - Il collaudo sulla CNC fisica richiede la macchina disponibile e una verifica iniziale a mandrino fermo e con corse libere.
