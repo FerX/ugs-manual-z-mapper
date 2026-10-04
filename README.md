@@ -1,8 +1,12 @@
 # UGS Manual Z Mapper
 
+**Ready to install — no compilation required:** [Download the compiled plugin (.nbm)](https://github.com/FerX/ugs-manual-z-mapper/releases/download/v0.1.0/ugs-manual-z-mapper-0.1.0.nbm). Install it in UGS Platform via **Tools → Plugins → Downloaded → Add Plugins**.
+
 Create a surface height map in **Universal Gcode Sender Platform without a probe**. Move to each grid point, adjust the tool height manually, confirm the work Z coordinate, and export an XYZ map for UGS AutoLeveler.
 
 This is an independent NetBeans plugin. Installing it does not require rebuilding or modifying UGS.
+
+> **N.B. — Vibe-coded project:** This project was developed with substantial AI-generated code and is experimental. Physical CNC validation is still pending. Use it at your own risk: incorrect commands, settings, or software defects can cause unexpected motion, machine or workpiece damage, or personal injury. Test in a simulator first, review clearances and settings before connecting a real machine, and keep the machine’s emergency stop accessible. The software is provided **without warranty**. To the extent permitted by applicable law, the authors and contributors accept no liability for damage, injury, or loss arising from its use. See the [GPL-3.0 license](LICENSE) for the full warranty and liability terms.
 
 ![Plugin interface](docs/design/layout-implemented.png)
 
