@@ -1,0 +1,9 @@
+upstream/
+target/
+dist/
+.flattened-pom.xml
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak

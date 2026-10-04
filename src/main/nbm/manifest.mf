@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: it/serex/ugs/manualheightmap/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1.0
+AutoUpdate-Essential-Module: false
